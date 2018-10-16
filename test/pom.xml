@@ -24,6 +24,12 @@
 	
   <dependencies>
   
+   <!-- Link BackEnd project-->
+   	<dependency>
+	  <groupId>test.tecsinfo</groupId>
+	  <artifactId>testbackend</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   	<!-- JAVA EE API  -->
 	<dependency>
 	    <groupId>javax</groupId>
